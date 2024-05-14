@@ -41,8 +41,6 @@ The analysis includes the following steps:
 
 - `README.md`: Overview of the analysis, key insights, and repository structure.
 - `BIG5_clustering.ipynb`: Jupyter Notebook containing the Python code for data preprocessing, EDA, and clustering analysis.
-- `data-final-clean.csv`: Cleaned dataset used for the analysis.
-- `LICENSE`: License information for the repository.
 
 ## Dependencies
 
